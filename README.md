@@ -26,6 +26,16 @@
 
 ---
 
+## 📊 Проекты
+
+| Проект | Описание | Инструменты |
+|---|---|---|
+| [Real Estate Market Research](https://github.com/mariastepanova07/Data-analytics-portfolio/tree/45c8e8d6f8711e06bd2412dec9ae5803addd36bb/Real%20estate%20market%20research) | Анализ рынка недвижимости: цены, площадь, локации, стоимость за м² | SQL, DataLens |
+| [Data Analysts Job Market](https://github.com/mariastepanova07/Data-analytics-portfolio/tree/45c8e8d6f8711e06bd2412dec9ae5803addd36bb/Data%20analysts%20job%20market) | Анализ базы данных вакансий с HH: зарплаты, типы занятости, навыки | SQL, Python, Pandas |
+| [Marketing Campaign Analysis](ССЫЛКА) | Анализ эффективности рекламных кампаний | SQL, BI |
+
+---
+
 ## 📈 Что я умею делать
 
 - Писать SQL-запросы для анализа данных
